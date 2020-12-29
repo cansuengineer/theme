@@ -1,0 +1,24 @@
+# main links links
+main:
+  #- title: "CV"
+  #  url: /cv/
+  
+  - title: "Research"
+    url: /research/
+    
+  - title: "Publications"
+    url: /publications/
+  
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Community"
+    url: /community/    
+
+    
+        
+  #- title: "Art"
+  #  url: /art/
+       
+  #- title: "Guide"
+  #  url: /markdown/
